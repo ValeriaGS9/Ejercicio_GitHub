@@ -8,5 +8,10 @@
  * @author valeriagomezsoriano
  */
 public class Gomez {
+    public static void main(String[] args) {
+        System.out.println("Necesito vacaciones");
+        System.out.println(Soriano.SABADO.toString());
+    }
+    
     
 }

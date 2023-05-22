@@ -7,6 +7,7 @@
  *
  * @author valeriagomezsoriano
  */
-public class Soriano {
+public enum Soriano {
+    LUNES, MARTES, MIERCOLES, JUEVES, VIERNES, SABADO, DOMINGO
     
 }
