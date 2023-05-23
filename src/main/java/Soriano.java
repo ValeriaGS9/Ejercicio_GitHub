@@ -7,7 +7,14 @@
  *
  * @author valeriagomezsoriano
  */
-public enum Soriano {
-    LUNES, MARTES, MIERCOLES, JUEVES, VIERNES, SABADO, DOMINGO
-    
+public class Soriano{
+    public int resta(int i, int j) {
+        return i-j;
+    }
+
+
+
+
 }
+
+
