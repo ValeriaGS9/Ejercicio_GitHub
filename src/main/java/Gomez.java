@@ -9,9 +9,15 @@
  */
 public class Gomez {
     public static void main(String[] args) {
+         Soriano s1=new Soriano();
         System.out.println("Necesito vacaciones");
-        System.out.println(Soriano.SABADO.toString());
+        System.out.println(s1.divide(5, 2));
+        
+        System.out.println(multiplicar(5,5));
     }
-    
+    private static int multiplicar(int i, int j) {
+        return i*j;
+        
+    }
     
 }
