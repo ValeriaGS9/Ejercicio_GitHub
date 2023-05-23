@@ -9,6 +9,7 @@
  */
 public class Gomez {
     public static void main(String[] args) {
+        //Valeria Gómez Soriano
         Soriano s1=new Soriano();
         System.out.println("Necesito vacaciones");
         System.out.println(s1.divide(5, 2));
